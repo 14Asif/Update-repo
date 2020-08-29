@@ -1,1 +1,3 @@
 # Update-repo
+Sunday
+Monday
